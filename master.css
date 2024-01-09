@@ -155,7 +155,7 @@ main {
   top: -130px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(../images/bg-section-top-desktop-1.png);
+  background-image: url(./images/bg-section-top-desktop-1.png);
 }
 @media(max-width:767px){
    .back{
@@ -178,7 +178,7 @@ left: 0;
   height: 50%;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(../images/bg-section-bottom-desktop-1.png);
+  background-image: url(./images/bg-section-bottom-desktop-1.png);
 }
 
 .grow h1{
@@ -302,7 +302,7 @@ footer  p{
 
 footer .backg{
   position: absolute;
-  background-image: url(../images/bg-footer-top-desktop.png);
+  background-image: url(./images/bg-footer-top-desktop.png);
   left: 0;
   top: -173px;
   background-size: contain;
